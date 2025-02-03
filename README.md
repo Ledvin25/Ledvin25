@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm a currently student of Software Engineering at Tecnologico de Costa Rica (TEC).<br><br>💼 I'm also a founder of MyTourCR (https://github.com/MyTourCR), a project aimed at promoting tourism in Costa Rica.<br><br>🔭 I’m currently working on various web and app development projects, as well as enhancing my skills in software engineering, physics and mathematics.<br><br>📫 You can reach me at ledvin25@hotmail.com or on Discord at Ledvin25.
+🚀 I'm a currently student of Software Engineering at Tecnologico de Costa Rica (TEC).<br><br>🔭 I’m currently working on various web and app development projects, as well as enhancing my skills in software engineering, physics and mathematics.<br><br>📫 You can reach me at ledvin25@hotmail.com or on Discord at Ledvin25.
 
 
 ## 🌐 Socials:
